@@ -1,0 +1,14 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+*.local.*
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*
+secrets*
+node_modules/
+.build/
+.netlify/
